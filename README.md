@@ -1,6 +1,6 @@
 # For Local Testing
 
-Make sure you have installed the latest [https://github.com/Azure/azure-functions-core-tools](Azure Function Core Tools).
+Make sure you have installed the latest [Azure Function Core Tools](https://github.com/Azure/azure-functions-core-tools).
 
 Place a `local.settings.json` file with the following format in the root directory:
 ```
